@@ -8,7 +8,6 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-
 1. Load the dataset Salary.csv using pandas and view the first few rows.
 
 2.Check dataset information and identify any missing values.
